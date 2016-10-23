@@ -1,0 +1,65 @@
+MLDATA = ''<flockml>--------------------------------------------------<br/>|<i><strong>Hello Team</strong></i><br/>|<i>Here"s what happened in todays meeting</i><br/>|<b><u>Agenda:</u></b><br/>|*agenda1 <br/>|*agenda2<br/><b><u>Notes:</u></b><br/>|*this is important <br/>|*@sainath: How can that be not important<br/>--------------------------------------------------<br/></flockml>'
+
+https://api.flock.co/v1/chat.sendMessage?to=g:81619_lobby&text=.&flockml=+MLDATA+&token=7a22271c-765d-4c62-b994-3d8fcb72b8ac
+
+
+
+
+:heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: 
+This is what happened in today's meeting
+People joined : :princess::baby: :bride_with_veil: :man_with_gua_pi_mao: :cop: :information_desk_person: 
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+Agenda:
+:ballot_box_with_check: item1
+:ballot_box_with_check: item2
+:white_large_square:    item3
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+Notes:
+:grinning: : This is very important
+:grinning: : This is also important
+:heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign:
+
+
+
+//           var MLDATA = '<flockml>--------------------------------------------------<br/>|<i><strong>Hello Team</strong></i><br/>|<i>Here"s what happened in todays daily-catchUp meeting</i><br/>|<b><u>Agenda:</u></b><br/>|☑agenda1 <br/>|✓agenda2<br/><b><u>Notes:</u></b><br/>|✓this is important <br/>|*@sainath: How can that be not important<br/>--------------------------------------------------<br/></flockml>';
+//           var textData = ':heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: \
+// This is what happened in todays meeting  \
+// People joined : :princess::baby: :bride_with_veil: :man_with_gua_pi_mao: :cop: :information_desk_person: \
+// :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: \
+// Agenda: \
+// :ballot_box_with_check: item1 \
+// :ballot_box_with_check: item2 \
+// :white_large_square:    item3 \
+// :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: \
+// Notes: \
+// :grinning: : This is very important \
+// :grinning: : This is also important \
+// :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign:'
+
+
+
+https://api.flock.co/v1/chat.sendMessage?to=g:81619_lobby&text=:heavy_minus_sign:&token=7a22271c-765d-4c62-b994-3d8fcb72b8ac
+
+
+https://api.flock.co/v1/chat.sendMessage?to=g:81619_lobby&text=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+&token=7a22271c-765d-4c62-b994-3d8fcb72b8ac
+
+
+
+～～～
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Here's what happened in today's meeting
+ーーーーーーーーーーーーーーーーーーーーーーーーーー
+Agenda :
+☑ Done
+⬜ Not Done
+ーーーーーーーーーーーーーーーーーーーーーーーーーー
+Notes:
+-sainath : I love life
+-user    : universe is 42
+ーーーーーーーーーーーーーーーーーーーーーーーーーー
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
